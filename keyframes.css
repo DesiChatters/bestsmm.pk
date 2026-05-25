@@ -1,36 +1,17 @@
-/*
-Author: Hassan;
-Email: hassan_ahmed91@outlook.com;
-Version: 1.9;
-Animation Names:[
-1- rotateAntiClockWise
-2- rotateClockWise
-3- tossing
-4- j
-5- k
-6- l
-7- m
-8- wobble-bottom
-9- fadeRTL
-10- fadeLTR
-11- fade-up
-12- fadeInDown
-13- shake
-14- tada
-15- heartBeat
-16- fly
-17- float
-18- rotation
-19- pulse
-20- pulseTwo
-21- flip-2-ver-left-1
-22- rubberBand
-23- flip
-24- Shaky
-25- LTRScale
-];
-*/
-
+/*!
+ * Dua Communication
+ * Web Design • Development • Backend Engineering
+ *
+ * © 2026 Dua Communication. All rights reserved.
+ *
+ * This stylesheet is part of a proprietary software and design system
+ * developed by Dua Communication. Reproduction, distribution, modification,
+ * or use of this file without explicit authorization is strictly prohibited.
+ *
+ * Developed with precision, performance, and scalability.
+ *
+ * www.duacommunication.com
+ */
 @keyframes LTRScale{
   0% {
     transform:  translate(0px,0px)  scaleX(0.66) scaleY(0.66) ;
